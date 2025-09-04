@@ -1,2 +1,2 @@
 # darck
-Agradecimento de aniversário com Dark vender no terminal
+Agradecimento de aniversário com Dark veder no terminal
